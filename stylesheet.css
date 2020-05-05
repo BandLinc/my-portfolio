@@ -30,3 +30,35 @@ header {
 .main-nav li a:hover {
   border: 1px solid white;
 }
+.logo {
+  font-family: cursive;
+  color: white;
+  font-size:20px;
+  height: auto;
+  width: auto;
+  float: left;
+  padding: 20px 30px;
+}
+body {
+  font-family: monospace;
+
+}
+.row {
+  max-width: 1200px;
+  margin:auto;
+}
+.career {
+  position: absolute;
+  width: auto;
+  margin-left: 250px;
+  font-size: 30px;
+  margin-top: 250px;
+  color: white;
+  text-align: left;
+}
+.mypic {
+  position: absolute;
+  width: auto;
+  margin-left: 50px;
+  margin-top: 250px;
+}
