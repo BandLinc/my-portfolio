@@ -3,8 +3,9 @@
 #### By **Lincoln Lidanya**
 ## Description
 Lincoln Band has designed a Portfolio about himself. The portfolio covers his profession, list of projects he has tackled and information about him which includes his background. Luckily, he has also mentioned a bit about his interests, hobbies and other skills apart from coding.
-## Setup/Installation Requirements
+## Access Link
 * To access the portfolio simply go through the link below.
+* https://bandlinc.github.io/my-portfolio/
 * The portfolio can opens in all browsers.
 ## Known Bugs
 There are currently no bugs in the project. Contributions are welcome.
